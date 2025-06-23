@@ -97,7 +97,7 @@ Pull requests are welcome! If you'd like to contribute:
 
 ## 📧 Contact
 
-**Theo Sosa**  
+**Theojohn Sosa**  
 📧 theojohnsosa@gmail.com  
 🔗 [GitHub](https://github.com/theojohnsosa)
 
